@@ -1,0 +1,24 @@
+{
+
+"FunctionString": [
+"Wscript.network",
+"\\KothosHTTP",
+"\\Errors",
+"Failed to create directory",
+"\\KothosHTTP_",
+".log",
+"Failed creating directory",
+"Failed creating log",
+"Failed to post to log",
+"****************Scanning page for images...********************",
+"****************Looking up second webpage...*******************",
+"****************ERROR: Webpage not found**********************"
+],
+
+"Time":[
+"%Y%m%d%H%M%S",
+"%m/%d/%Y-%I:%M%p",
+"%Y:%m:%d:%H:%M:%S"
+]
+
+}
